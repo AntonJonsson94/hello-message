@@ -1,0 +1,19 @@
+{
+  "name": "hello-message",
+  "version": "1.0.0",
+  "description": "Prints a \"hello\" beside your choosen text",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AntonJonsson94/hello-message.git"
+  },
+  "author": "Anton Jonsson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntonJonsson94/hello-message/issues"
+  },
+  "homepage": "https://github.com/AntonJonsson94/hello-message#readme"
+}
